@@ -6,9 +6,3 @@ img.floating.display {
     pointer-events: none;
 }
 
-@media (max-width: 768px) {
-    img.floating.display {
-        right: 10px; /* Adjust this value as needed */
-    }
-}
-
