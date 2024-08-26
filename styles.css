@@ -1,8 +1,10 @@
-/*
-
-This CSS file will be included with your plugin, and
-available in the app when your plugin is enabled.
-
-If your plugin does not need CSS, delete this file.
-
-*/
+img.floating.display {
+    position: fixed;
+    right: -1690px;
+    z-index: 9999; /* Adjust the z-index as needed */
+    width: auto;
+    height: auto;
+    bottom: 50px;
+    left: 1px;
+    pointer-events: none;
+}
