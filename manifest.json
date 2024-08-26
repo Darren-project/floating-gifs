@@ -1,7 +1,7 @@
 {
 	"id": "floating-gif",
 	"name": "Floating Gifs",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "A plugin that allows you to float gifs on your screen.",
 	"author": "Darren-Project",
